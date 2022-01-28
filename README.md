@@ -18,6 +18,7 @@ Steps To Run The Console Application:
 
 Assets/ Results of Console App:
 > ReadMe.md
+> CorruptFilesValidationWithAspose\Payload\
 
 -------------------------------------------------------------------------------------------------------------
 
